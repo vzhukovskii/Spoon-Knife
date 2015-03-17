@@ -1,1 +1,1 @@
-{"mixinTypes":["contribution"],"builders":{"configs":{}},"runners":{"configs":{}},"type":"blank","attributes":{"contribute_branch":["master"],"contribute_mode":["contribute"]}}
+{"mixinTypes":["contribution"],"builders":{"configs":{}},"runners":{"configs":{"system:/javascript/web/simple":{"options":{},"ram":0,"variables":{}}},"type":"blank","attributes":{"contribute_branch":["master"],"contribute_mode":["contribute"]}}
